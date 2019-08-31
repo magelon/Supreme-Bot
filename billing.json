@@ -1,14 +1,14 @@
 {
-  "name": "",
-  "email": "",
-  "tel": "",
-  "address1": "",
+  "name": "guojin",
+  "email": "dguojin@gmail.com",
+  "tel": "5102690475",
+  "address1": "44303 viewpoint cir",
   "address2": "",
-  "zip": "",
-  "city": "",
-  "state": "",
-  "ccNum": "",
-  "expMon": "",
-  "expYear": "",
-  "ccCVV": ""
+  "zip": "94539",
+  "city": "Fremont",
+  "state": "CA",
+  "ccNum": "555555555555",
+  "expMon": "01",
+  "expYear": "2020",
+  "ccCVV": "888"
 } 
