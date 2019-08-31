@@ -13,17 +13,17 @@ def main(category, name, color, size, checkoutDelay, url):
 
 if __name__ == '__main__':
     # Enter R for restock mode else leave blank
-    releaseType = 'R'.upper()
+    releaseType = ''.upper()
     # Enter category for release mode else leave blank
     category = 'accessories'
     # Enter name for release mode else leave blank
-    name = 'Supreme®/Hanes® Crew Socks (4 Pack)'
+    name = 'GORE-TEX Taped Seam Jacket'
     # Enter color for release mode else leave blank
-    color = 'Red'
+    color = 'Black'
     # Enter size for desired size else leave blank for O/S or random
-    size = ''
+    size = 'Medium'
     # Enter checkout delay to avoid ghost checkout or else enter None
-    checkoutDelay = None
+    checkoutDelay = 10
 
     # This will be prompt if restock mode is selected else ignore this
     url = input('Enter url: ').strip() if releaseType == 'R' else None
